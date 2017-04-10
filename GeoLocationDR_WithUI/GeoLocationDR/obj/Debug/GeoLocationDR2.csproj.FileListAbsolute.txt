@@ -1,0 +1,9 @@
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\bin\Debug\GeoLocationDR2.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\bin\Debug\GeoLocationDR2.pdb
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\bin\Debug\OSIsoft.AFSDK.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\bin\Debug\OSIsoft.AFSDK.xml
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\obj\Debug\GeoLocationDR2.csprojResolveAssemblyReference.cache
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\obj\Debug\GeolocationDR.DREditor.resources
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\obj\Debug\GeoLocationDR2.csproj.GenerateResource.Cache
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\obj\Debug\GeoLocationDR2.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeoLocationDR2\GeoLocationDR2\obj\Debug\GeoLocationDR2.pdb

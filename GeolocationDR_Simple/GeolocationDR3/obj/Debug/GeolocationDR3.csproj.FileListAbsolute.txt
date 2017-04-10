@@ -1,0 +1,7 @@
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\bin\Debug\GeolocationDR3.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\bin\Debug\GeolocationDR3.pdb
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\bin\Debug\OSIsoft.AFSDK.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\bin\Debug\OSIsoft.AFSDK.xml
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\obj\Debug\GeolocationDR3.csprojResolveAssemblyReference.cache
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\obj\Debug\GeolocationDR3.dll
+c:\users\gchermont\documents\visual studio 2015\Projects\GeolocationDR3\GeolocationDR3\obj\Debug\GeolocationDR3.pdb
